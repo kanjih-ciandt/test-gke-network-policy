@@ -2,12 +2,10 @@
 
 To be executed after enabled the network policy in the master and nodes.
 
-This example is basic a merge of these tutorials:
+This example is basically a merge of these tutorials:
 * https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer
 
 *  https://docs.projectcalico.org/v3.5/getting-started/kubernetes/tutorials/advanced-policy
-
-
 
 **Step 1**: Create 2 namespaces:
 
